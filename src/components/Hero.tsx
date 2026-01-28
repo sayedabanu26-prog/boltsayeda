@@ -44,8 +44,8 @@ export default function Hero() {
           <div className="relative">
             <div className="aspect-square rounded-3xl bg-gradient-to-br from-amber-200 to-orange-200 shadow-2xl overflow-hidden">
               <img
-                src="https://images.pexels.com/photos/2916814/pexels-photo-2916814.jpeg?auto=compress&cs=tinysrgb&w=800"
-                alt="Beautiful henna design"
+                src="https://images.pexels.com/photos/5849180/pexels-photo-5849180.jpeg?auto=compress&cs=tinysrgb&w=800"
+                alt="Beautiful henna design on hands"
                 className="w-full h-full object-cover"
               />
             </div>

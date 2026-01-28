@@ -1,32 +1,32 @@
 const images = [
   {
     url: 'https://images.pexels.com/photos/5849180/pexels-photo-5849180.jpeg?auto=compress&cs=tinysrgb&w=800',
-    title: 'Bridal Design',
+    title: 'Bridal Masterpiece',
     category: 'Bridal'
   },
   {
     url: 'https://images.pexels.com/photos/4355345/pexels-photo-4355345.jpeg?auto=compress&cs=tinysrgb&w=800',
-    title: 'Traditional Pattern',
+    title: 'Traditional Elegance',
     category: 'Traditional'
   },
   {
     url: 'https://images.pexels.com/photos/8828554/pexels-photo-8828554.jpeg?auto=compress&cs=tinysrgb&w=800',
-    title: 'Intricate Art',
+    title: 'Full Hand Design',
     category: 'Bridal'
   },
   {
     url: 'https://images.pexels.com/photos/7689986/pexels-photo-7689986.jpeg?auto=compress&cs=tinysrgb&w=800',
-    title: 'Floral Design',
+    title: 'Floral Motif',
     category: 'Contemporary'
   },
   {
     url: 'https://images.pexels.com/photos/6896396/pexels-photo-6896396.jpeg?auto=compress&cs=tinysrgb&w=800',
-    title: 'Elegant Style',
+    title: 'Festive Design',
     category: 'Party'
   },
   {
     url: 'https://images.pexels.com/photos/7689820/pexels-photo-7689820.jpeg?auto=compress&cs=tinysrgb&w=800',
-    title: 'Modern Art',
+    title: 'Contemporary Art',
     category: 'Contemporary'
   }
 ];
